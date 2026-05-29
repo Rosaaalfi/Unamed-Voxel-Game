@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = ["desktop", "mobile", "server", "shared"]
+
+[workspace.package]
+edition = "2024"
+version = "0.1.0"
+authors = ["Aniko <96246110+Rosaaalfi@users.noreply.github.com>"]

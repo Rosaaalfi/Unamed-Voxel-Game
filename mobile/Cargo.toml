@@ -1,0 +1,9 @@
+[package]
+name = "client-mobile"
+version.workspace = true
+edition.workspace = true
+publish = false
+
+[dependencies]
+bevy = "0.18.0"
+shared = { path = "../shared" }

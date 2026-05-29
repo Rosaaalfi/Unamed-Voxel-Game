@@ -1,0 +1,9 @@
+{
+  "name": "ui",
+  "source": "textures/misc",
+  "sprites": [
+    "textures/effects/bawah_air.png",
+    "textures/misc/overlay_air.png",
+    "textures/misc/rumput.png"
+  ]
+}

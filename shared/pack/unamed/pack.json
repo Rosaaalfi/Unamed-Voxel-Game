@@ -1,0 +1,38 @@
+{
+  "namespace": "unamed",
+  "atlases": [
+    {
+      "name": "blocks",
+      "source": "blocks.json",
+      "sprites": [
+        "textures/blocks/batu.png",
+        "textures/blocks/tanah.png",
+        "textures/blocks/pasir.png",
+        "textures/blocks/block_rumput_atas.png",
+        "textures/blocks/blok_rumput_samping.png",
+        "textures/blocks/overlay_blok_rumput_samping.png"
+      ]
+    },
+    {
+      "name": "items",
+      "source": "items.json",
+      "sprites": [
+        "textures/items/beliung_kayu.png"
+      ]
+    },
+    {
+      "name": "ui",
+      "source": "ui.json",
+      "sprites": [
+        "textures/effects/bawah_air.png",
+        "textures/misc/overlay_air.png",
+        "textures/misc/rumput.png"
+      ]
+    }
+  ],
+  "locale": ["en-us.json"],
+  "models": ["models/entities", "models/items", "models/blocks"],
+  "shaders": ["shaders"],
+  "sounds": ["sounds"],
+  "textures": ["textures"]
+}

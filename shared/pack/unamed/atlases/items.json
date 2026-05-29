@@ -1,0 +1,7 @@
+{
+  "name": "items",
+  "source": "textures/items",
+  "sprites": [
+    "textures/items/beliung_kayu.png"
+  ]
+}

@@ -1,0 +1,10 @@
+[package]
+name = "game-server"
+version.workspace = true
+edition.workspace = true
+publish = false
+
+[dependencies]
+bevy = "0.18.0"
+shared = { path = "../shared" }
+serde_json = "1"

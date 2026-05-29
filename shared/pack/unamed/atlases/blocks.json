@@ -1,0 +1,12 @@
+{
+  "name": "blocks",
+  "source": "textures/blocks",
+  "sprites": [
+    "textures/blocks/batu.png",
+    "textures/blocks/tanah.png",
+    "textures/blocks/pasir.png",
+    "textures/blocks/block_rumput_atas.png",
+    "textures/blocks/blok_rumput_samping.png",
+    "textures/blocks/overlay_blok_rumput_samping.png"
+  ]
+}
