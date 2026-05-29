@@ -175,14 +175,6 @@ cargo test -p shared
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to open a [pull request](../../pulls) or an [issue](../../issues).
-
-Before contributing, please check the [`memory/`](memory/) directory for development notes, API gotchas, and active work tracking.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
