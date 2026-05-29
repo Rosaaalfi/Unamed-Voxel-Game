@@ -94,8 +94,6 @@
 │   │   ├── shaders/       # HLSL shader sources
 │   │   └── sounds/        # Audio assets
 │
-├── RealMinecraftExample/  # Vanilla Minecraft reference (inspected for accuracy)
-├── memory/                # Development notes & handoff documents
 └── Cargo.toml             # Workspace root
 ```
 
