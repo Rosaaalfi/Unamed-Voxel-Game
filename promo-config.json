@@ -1,0 +1,38 @@
+{
+  "company": {
+    "name": "Chyxel",
+    "website": "https://portfolio.chyxelmc.me/",
+    "ko-fi": "https://ko-fi.com/chyxel"
+  },
+  "vpn": {
+    "radmin": {
+      "site": "https://www.radmin-vpn.com/",
+      "tutorial": "https://www.youtube.com/results?search_query=Radmin+VPN+Palworld+%E8%81%AF%E6%A9%9F+%E6%95%99%E5%AD%B8"
+    },
+    "tailscale": {
+      "site": "https://tailscale.com/",
+      "tutorial": "https://www.youtube.com/results?search_query=Tailscale+Palworld+%E5%B0%88%E7%94%A8%E4%BC%BA%E6%9C%8D%E5%99%A8+%E6%95%99%E5%AD%B8"
+    }
+  },
+  "playit": {
+    "site": "https://playit.gg/",
+    "tutorial": "https://www.youtube.com/results?search_query=playit.gg+Palworld+%E4%BC%BA%E6%9C%8D%E5%99%A8+%E6%95%99%E5%AD%B8"
+  },
+  "credits": {
+    "developers": [
+      {
+        "name": "Bridget",
+        "role": "ALL ROUNDER DEV",
+        "url": "https://www.youtube.com/@AnikoCh"
+      }
+    ],
+    "ambassadors": [
+      {
+        "name": "ME",
+        "role": "SPONSOR",
+        "url": "https://www.youtube.com/@AnikoCh"
+      }
+    ],
+    "donate": "https://ko-fi.com/chyxel"
+  }
+}
